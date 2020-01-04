@@ -2,4 +2,4 @@
 National Hurricane Center
 
 ### Requirements
-`sudo apt-get install libgdal-dev`
+[install GDAL] (https://github.com/domlysz/BlenderGIS/wiki/How-to-install-GDAL)
